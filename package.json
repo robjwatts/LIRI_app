@@ -1,0 +1,22 @@
+{
+  "name": "liriapp",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface project",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robjwatts/LIRI_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robjwatts/LIRI_app/issues"
+  },
+  "homepage": "https://github.com/robjwatts/LIRI_app#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}

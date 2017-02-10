@@ -1,0 +1,12 @@
+//twitter API linkage
+
+function twitter(handle) {
+	if (!handle) {
+		handle = "kamurochorob"
+	}
+
+	var client = new Twitter({
+
+		
+	})
+}
